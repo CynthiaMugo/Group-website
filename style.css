@@ -1,3 +1,105 @@
+/* Najma Section */
+.najma {
+    background-color: #103d57;
+    color: white;
+    text-align: center;
+    padding: 20px 20px;
+    margin: 0%;
+}
+.najma h2 {
+    font-size: 40px;
+    font-style: italic;
+}
+.features {
+    /* background-color: whitesmoke; */
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    gap: 20px;
+    align-items: center;
+    padding: 50px;
+}
+
+.feature img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+.feature h3 {
+    margin: 15px 0px;
+    font-size: 24px;
+    color: aquamarine;
+}
+.feature p {
+    font-size: 18px;
+    color: aquamarine;
+}
+#najma-button {
+    background-color: #20c5b4;
+    color: white;
+    font-weight: bold;
+    border: none;
+    padding: 15px 60px;
+    border-radius: 800px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+#najma-button:hover {
+    background-color: #1aa89c;
+}
+
+/* Eric section */
+.div-4 {
+    background-color: #E8DED9;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 80px;
+    gap: 15px;
+}
+.eric h2 {
+    font-size: 40px;
+    font-style: italic;
+    font-weight: bold;
+}
+.eric p {
+    font-size: 20px;
+    
+}
+.eric-image img {
+    width: 400px;
+    height: 400px;
+    border-radius: 20px;
+    object-fit: cover;
+}
+#slant1 {
+    transform: rotate(-10deg);
+    transition: transform 0.3s ease;
+}
+#slant {
+    transform: rotate(10deg);
+    transition: transform 0.3s ease; 
+}
+.eric button {
+    background-color: #20c5b4;
+    color: white;
+    font-weight: bold;
+    border: none;
+    padding: 15px 60px;
+    border-radius: 800px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.eric button:hover {
+    background-color: #1aa89c;
+}
+
+
+/* Cynthia Section */
 .div-5 {
     background-color: whitesmoke;
     display: flex;
@@ -16,13 +118,16 @@
 }
 .parent h2 {
     font-size: 60px;
+    font-style: italic;
+    font-weight: bold;
 }
 .parent p {
-    font-size: 35px;
+    font-size: 20px;
     
 }
 .image img{
     border-radius: 20px;
+    /* width: 200px; */
 
 }
 
