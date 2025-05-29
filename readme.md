@@ -29,11 +29,11 @@ If you encounter any issues or have suggestions for improvements, feel free to o
 ## Technologies Used
 * HTML
 * CSS
-* Bootstrap %
+* Bootstrap 5
 ## Support and contact details
 If you’d like to contribute or have questions, you can reach out via:
 
-GitHub: @cynthiamugo
+GitHub: @W-Kuria @CynthiaMugo @Nijhan 
 
 ### License
 MIT License
