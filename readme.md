@@ -1,6 +1,6 @@
 # Wedding Website Builder
 #### A beautiful wedding site inspired by Zola — collaboratively built with ❤️  
-**By William Kuria, Eric Muigai, Cynthia Mugo & Najma Shaaban **| May 29, 2025
+**By William Kuria, Eric Muigai, Cynthia Mugo & Najma Shaaban**| May 29, 2025
 ## Description
 The **Wedding Website Builder** website is a responsive, elegant, and user-friendly wedding website inspired by Zola. Built as a group project, this site showcases the ability to collaborate and recreate a professional-grade layout using HTML, CSS, and Bootstrap.
 
@@ -38,4 +38,4 @@ GitHub: @cynthiamugo
 ### License
 MIT License
 
-Copyright (c) 2025 Cynthia Mugo Willaim Kuria Eric Muigai Najma Shaaban
+Copyright (c) 2025 Cynthia Mugo William Kuria Eric Muigai Najma Shaaban
