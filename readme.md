@@ -17,7 +17,7 @@ The purpose of this project was not only to practice front-end development skill
 
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/cynthiamugo/Foundations-final.git
+   git clone https://github.com/CynthiaMugo/Group-website.git
 2. Open the project folder in Visual Studio Code or your preferred code editor
 
 3. Open the index.html file in your web browser to view the site
